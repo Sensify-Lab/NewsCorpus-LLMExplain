@@ -18,7 +18,7 @@ TBD
 TBD
 ```
 
-## 📄 [NewsCorpus17k.csv](NewsCorpus17k.csv)
+## 📄 [NewsCorpus17K.csv](NewsCorpus17K.csv)
 ### 👉 Checkout preview: [NewsCorpus17K_sample100.csv](NewsCorpus17K_sample100.csv)
 
 ### Core Metadata
