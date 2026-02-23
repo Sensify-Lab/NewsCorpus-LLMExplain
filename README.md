@@ -1,7 +1,5 @@
 # NewsCorpus-LLMExplain
 
-## Overview
-
 We introduce **NewsCorpus** covering contemporary events curated from [AllSides](https://www.allsides.com) from **July 21, 2012** – **July 23, 2024**.The dataset contains **17,166 articles** grouped into **5,722 news round-ups** across **64 topical categories**.
 
 Data were collected using a [public scraping tool](https://github.com/csinva/news-title-bias/tree/master). The scraping script was adapted due to updates in the AllSides HTML structure.
@@ -22,8 +20,6 @@ TBD
 
 ## 📄 [NewsCorpus17k.csv](NewsCorpus17k.csv)
 ### 👉 Checkout preview: [NewsCorpus17K_sample100.csv](NewsCorpus17K_sample100.csv)
-
-## Data Fields
 
 ### Core Metadata
 - `Date` — publication date of the roundup
@@ -52,7 +48,7 @@ TBD
 - `right_story_leaning` — political bias label
 - `right_story_text` — preview or snippet text
 
----
+
 ## Major topic groups include:
 
 - **Elections and Democracy:** 2024 Presidential Election, Elections, Voting Rights and Voter Fraud, Campaign Finance, Polarization  
