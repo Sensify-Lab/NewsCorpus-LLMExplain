@@ -12,17 +12,14 @@ Each row/ roundup contains three parallel news stories representing different po
 ## Citation
 If you use this dataset or build upon it in your research, please cite the following paper:
 
-Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., Barner, E. K., Mauriello, M. L. (2026). ‘The explanation makes sense’: An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation. arXiv [Cs.HC]. Retrieved from http://arxiv.org/abs/2602.19690
+Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., ... & Mauriello, M. L. (2026). " The explanation makes sense": An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation. _arXiv preprint arXiv:2602.19690._
 
 ```bibtex
-@misc{wang2026theexplanationmakessense,
-      title={"The explanation makes sense": An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation}, 
-      author={Qile Wang and Prerana Khatiwada and Avinash Chouhan and Ashrey Mahesh and Joy Mwaria and Duy Duc Tran and Kenneth E. Barner and Matthew Louis Mauriello},
-      year={2026},
-      eprint={2602.19690},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2602.19690}, 
+@article{wang2026explanation,
+  title={"The explanation makes sense": An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation},
+  author={Wang, Qile and Khatiwada, Prerana and Chouhan, Avinash and Mahesh, Ashrey and Mwaria, Joy and Tran, Duy Duc and Barner, Kenneth E and Mauriello, Matthew Louis},
+  journal={arXiv preprint arXiv:2602.19690},
+  year={2026}
 }
 ```
 
