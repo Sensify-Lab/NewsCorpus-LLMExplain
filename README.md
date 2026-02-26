@@ -12,7 +12,7 @@ Each row/ roundup contains three parallel news stories representing different po
 ## Citation
 If you use this dataset or build upon it in your research, please cite the following paper:
 
-Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., ... & Mauriello, M. L. (2026). " The explanation makes sense": An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation. _arXiv preprint arXiv:2602.19690._
+Wang, Q., Khatiwada, P., Chouhan, A., Mahesh, A., Mwaria, J., Tran, D. D., ... & Mauriello, M. L. (2026). " The explanation makes sense": An Empirical Study on LLM Performance in News Classification and its Influence on Judgment in Human-AI Collaborative Annotation. [_arXiv preprint arXiv:2602.19690._](https://arxiv.org/abs/2602.19690)
 
 ```bibtex
 @article{wang2026explanation,
